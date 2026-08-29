@@ -16,6 +16,9 @@ export const metadata: Metadata = {
   title: "Socratic Mentor | First Principles Dialectic AI",
   description: "Socratic Mentor is an unyielding dialectic engine designed to deconstruct concepts and examine reality from absolute foundational first principles.",
   keywords: ["Socratic Mentor", "Socratic AI", "first principles", "philosophy chatbot", "dialectic engine"],
+  verification: {
+    google: "IvXP6SmcK0bf6TSNaCWgXY6tVbEyZteBMf4ZC29QgGs",
+  },
   openGraph: {
     title: "Socratic Mentor",
     description: "Deconstruct reality from absolute foundational premises.",
