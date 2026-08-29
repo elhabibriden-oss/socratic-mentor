@@ -1,9 +1,5 @@
 import type { NextConfig } from "next";
 
-const nextConfig: NextConfig = {
-  turbopack: {
-    root: "C:\\Users\\ASUS\\socratic-mentor",
-  },
-};
+const nextConfig: NextConfig = {};
 
 export default nextConfig;
