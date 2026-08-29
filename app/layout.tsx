@@ -13,13 +13,12 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Socratic Core AI | First Principles Dialectic Engine",
-  description: "Deconstruct reality, examine concepts, and engage in unyielding philosophical inquiry powered by rigorous first-principles reasoning.",
-  keywords: ["Socratic AI", "first principles", "philosophy AI chatbot", "dialectic engine", "critical thinking"],
+  title: "Socratic Mentor | First Principles Dialectic AI",
+  description: "Socratic Mentor is an unyielding dialectic engine designed to deconstruct concepts and examine reality from absolute foundational first principles.",
+  keywords: ["Socratic Mentor", "Socratic AI", "first principles", "philosophy chatbot", "dialectic engine"],
   openGraph: {
-    title: "Socratic Core AI",
+    title: "Socratic Mentor",
     description: "Deconstruct reality from absolute foundational premises.",
-    siteName: "Socratic Core AI",
     type: "website",
   },
 };
